@@ -89,7 +89,7 @@ jobs:
     - name: 上传 Anykernel3
       uses: actions/upload-artifact@v3
       with:
-        name: 安卓12-mtk6853通用内核-卡刷包
+        name: 卡刷包
         path: kernel_workspace/AnyKernel3/*
         
 
